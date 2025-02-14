@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Ongoing Project: Adpative Multi-Agent Systems :rocket: :airplane:
-I'm currently developing a multi-agent, LLM-driven avionics system for autonomous swarm technologies. 
+I'm currently developing a multi-agent, LLM-driven system for autonomous swarm technologies. 
 
 This project focuses on:
 - **Hierarchical Controls**
