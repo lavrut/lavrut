@@ -30,3 +30,8 @@ Potential Applications:
 
 Note: The repo is restricted.<br>
 [Project Kanban Board](https://github.com/users/lavrut/projects/6) to see real-time progress.
+
+##
+:blue_book: Currently reading through: 
+*  4th Edition of CCSP (Certified Cloud Security Professionl)
+*  1st Edition of Effective Vulnerability Management (ISBN: 9781394221202)
