@@ -15,12 +15,15 @@ Here are some ideas to get you started:
 [Learn more about the project on GitHub →](https://github.com/johndoe/multi-agent-drone-avionics)
 -->
 
-# Hi there, I'm LaVon! 👋
-
-## Ongoing Project: Multi-Agent Drone Avionics :rocket: :airplane:
-I'm currently developing a multi-agent, LLM-driven avionics system for autonomous drones. 
+## Ongoing Project: Adpative Multi-Agent Systems :rocket: :airplane:
+I'm currently developing a multi-agent, LLM-driven avionics system for autonomous swarm technologies. 
 
 This project focuses on:
-- **Hierarchical Control:** Parent orchestrator delegating to specialized agents.
-- **Domain-Specific Tools:** Navigation, Flight Control, Recon, Weapons, and Communications.
-- **Safety & Robustness:** Integrating traditional controllers for safety-critical tasks.
+- **Hierarchical Controls**
+- **Domain-Specific Tools**
+- **Safety & Effectiveness**
+
+Potential Applications: 
+- Commerical Avaition
+- Space Exploration
+- Military Application
