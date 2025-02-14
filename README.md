@@ -28,4 +28,5 @@ Potential Applications:
 - Space Exploration
 - Military Application
 
-Note: The repo is restricted.
+Note: The repo is restricted.<br>
+[Project Kanban Board](https://github.com/lavrut/multiagents/projects/6) to see real-time progress on my ongoing project!
