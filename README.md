@@ -33,5 +33,5 @@ Note: The repo is restricted.<br>
 
 ##
 :blue_book: Currently reading through: 
-*  4th Edition of CCSP (Certified Cloud Security Professionl)
+*  4th Edition of CCSP (Certified Cloud Security Professionl) (ISBN: 978-1-119-90901-9)
 *  1st Edition of Effective Vulnerability Management (ISBN: 9781394221202)
