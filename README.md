@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **lavrut/lavrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[Learn more about the project on GitHub →](https://github.com/johndoe/multi-agent-drone-avionics)
 -->
+
+# Hi there, I'm LaVon! 👋
+
+## Ongoing Project: Multi-Agent Drone Avionics :rocket: :airplane:
+I'm currently developing a multi-agent, LLM-driven avionics system for autonomous drones. 
+
+This project focuses on:
+- **Hierarchical Control:** Parent orchestrator delegating to specialized agents.
+- **Domain-Specific Tools:** Navigation, Flight Control, Recon, Weapons, and Communications.
+- **Safety & Robustness:** Integrating traditional controllers for safety-critical tasks.
