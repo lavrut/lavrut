@@ -29,4 +29,4 @@ Potential Applications:
 - Military Application
 
 Note: The repo is restricted.<br>
-[Project Kanban Board](https://github.com/lavrut/multiagents/projects/6) to see real-time progress on my ongoing project!
+[Project Kanban Board](https://github.com/users/lavrut/projects/6) to see real-time progress on my ongoing project!
